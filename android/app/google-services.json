@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "731738308092",
+    "firebase_url": "https://plant-monitoring-401404-default-rtdb.firebaseio.com",
+    "project_id": "plant-monitoring-401404",
+    "storage_bucket": "plant-monitoring-401404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731738308092:android:c247cb8255beda05700679",
+        "android_client_info": {
+          "package_name": "com.example.plant_monitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731738308092-ld23orlh5amdojgdl8gndp137i9kmq84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDmlvv4rwLj3byN_wiWvKYJxXFJkxTuvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731738308092-ld23orlh5amdojgdl8gndp137i9kmq84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
